@@ -18,4 +18,4 @@ My name is Shivam Parashar aka SummerSolder and I'm a Software/IoT Engineer and 
 
 ## :chart: GitHub Stats
 ![SummerSoldier's github stats](https://github-readme-stats.vercel.app/api?username=Summer-16&count_private=true&show_icons=true&theme=monokai)
-![SummerSoldier's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=monokai&layout=compact)
+![SummerSoldier's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=monokai&layout=compact&langs_count=8)
