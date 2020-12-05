@@ -17,5 +17,18 @@ My name is Shivam Parashar aka SummerSolder and I'm a Software/IoT Engineer and 
 
 
 ## :chart: GitHub Stats
-![SummerSoldier's github stats](https://github-readme-stats.vercel.app/api?username=Summer-16&count_private=true&show_icons=true&theme=monokai)
-![SummerSoldier's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=monokai&layout=compact&langs_count=8)
+<!---
+![SummerSoldier's github stats](https://github-readme-stats.vercel.app/api?username=Summer-16&count_private=true&show_icons=true&theme=synthwave)
+![SummerSoldier's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=synthwave&layout=compact&langs_count=8)
+![SummerSoldier's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=summersoldier)
+-->
+<a href="https://github.com/Summer-16">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Summer-16&count_private=true&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/Summer-16">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=synthwave&layout=compact&langs_count=8" />
+</a>
+<a href="https://github.com/Summer-16">
+  <img align="center" width="510" src="https://github-readme-stats.vercel.app/api/wakatime?username=summersoldier" />
+</a>
+
