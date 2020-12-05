@@ -23,12 +23,12 @@ My name is Shivam Parashar aka SummerSolder and I'm a Software/IoT Engineer and 
 ![SummerSoldier's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=summersoldier)
 -->
 <a href="https://github.com/Summer-16">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Summer-16&count_private=true&show_icons=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Summer-16&count_private=true&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/Summer-16">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=synthwave&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=synthwave&layout=compact&langs_count=8" />
 </a>
 <a href="https://github.com/Summer-16">
-  <img align="center" width="510" src="https://github-readme-stats.vercel.app/api/wakatime?username=summersoldier" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=summersoldier" />
 </a>
 
