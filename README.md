@@ -28,7 +28,9 @@ My name is Shivam Parashar aka SummerSolder and I'm a Software/IoT Engineer and 
 <a href="https://github.com/Summer-16">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=synthwave&layout=compact&langs_count=8" />
 </a>
+<!---
 <a href="https://github.com/Summer-16">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=summersoldier" />
 </a>
+-->
 
