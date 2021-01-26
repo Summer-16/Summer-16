@@ -1,6 +1,6 @@
 # Hey there awesome visitor! 👋
 
-My name is Shivam Parashar aka SummerSolder and I'm a Software/IoT Engineer and a Video Games lover. Always Excited to create new stuff or learn something new. I'm from India, currently working with Sofocle Technologies as a Software Engineer. You can also hire me for Freelance work contact me on Discord: Summer_Soldier#5591 or [![LinkedIn](https://img.shields.io/badge/Social-LinkedIn-informational?link=https://www.linkedin.com/in/shivam-parashar16/&link=https://www.linkedin.com/in/shivam-parashar16/&style=flat-square&logo=LinkedIn&logoColor=white&color=blue)](https://www.linkedin.com/in/shivam-parashar16/).
+My name is Shivam Parashar aka SummerSolder and I'm a Software/IoT Engineer and a Video Games lover. Always Excited to create new stuff or learn something new. I'm from India, currently working with Spraxa Solutions as a Software Engineer. You can also hire me for Freelance work contact me on Discord: Summer_Soldier#5591 or [![LinkedIn](https://img.shields.io/badge/Social-LinkedIn-informational?link=https://www.linkedin.com/in/shivam-parashar16/&link=https://www.linkedin.com/in/shivam-parashar16/&style=flat-square&logo=LinkedIn&logoColor=white&color=blue)](https://www.linkedin.com/in/shivam-parashar16/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=red)
